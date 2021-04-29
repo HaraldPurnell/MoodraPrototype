@@ -1,7 +1,12 @@
 # Moodra Prototype
+Moodra is an academic project created for a fourth year masters project course module. 
 
 ## Overview
-Moodra uses IBM Watson's speech to text and text to speech functionalities to hold a rudimentary conversation with the user. It also provides functionality to read story books and play music. This repo contains an early version of Moodra. This was done in order to demonstrate the sections of code that was written by myself in an easier to navigate format. Sections not written by myself have been clearly marked. The full version of the project can be found at the link below.
+Moodra uses IBM Watson's speech to text and text to speech functionalities to hold a rudimentary conversation with the user. It also provides functionality to read story books and play music. This repo contains an early prototype of Moodra. 
+
+Sections not written by the owner of this repository have been clearly marked. 
+
+The final submitted version of the project can be found at the link below.
 
 https://github.com/cjponter/MOODRA
 
